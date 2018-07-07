@@ -1,0 +1,6 @@
+!.gitkeep
+/vendor
+/public/images/
+.env
+*.sh
+.idea
